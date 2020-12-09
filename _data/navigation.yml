@@ -1,0 +1,21 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Roti Prata
+    url: /roti-prata/
+  - title: Char Kway Teow
+    url: /char-kway-teow/
+  - title: Mee Goreng
+    url: /mee-goreng/
+  - title: About Us
+    collection: about-us
+  - title: New
+    resource_room: true

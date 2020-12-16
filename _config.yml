@@ -18,8 +18,6 @@ colors:
 collections:
   about-us:
     output: true
-  creation:
-    output: true
 resources_name: new
 description: An Isomer site of the Singapore Government
 permalink: none

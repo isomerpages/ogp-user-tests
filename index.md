@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Isomer
+      title: Title
       subtitle: Rapidly launch an informational website for your Government agency
       background: /images/hero-banner.png
       button: Contact Us
@@ -22,16 +22,13 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+      image: /images/Isomer.png
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle

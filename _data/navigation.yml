@@ -8,7 +8,5 @@ links:
     url: /char-kway-teow/
   - title: Mee Goreng
     url: /mee-goreng/
-  - title: About Us
-    collection: about-us
   - title: New
     resource_room: true

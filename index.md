@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Title
       subtitle: Rapidly launch an informational website for your Government agency
-      background: /images/hero-banner.png
+      background: /images/Hero_1920x720.png
       button: Contact Us
       url: /contact-us/
       key_highlights:

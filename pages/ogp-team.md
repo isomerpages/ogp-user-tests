@@ -1,6 +1,6 @@
 ---
 title: OGP Team
-permalink: /privacy/
+permalink: /ogp-team/
 ---
 
 

@@ -17,7 +17,7 @@ sections:
           description: See how we've grown
           url: 'https://google.com'
         - title: Isomer v2
-          description: The latest version
+          description: Check out the latest version
           url: 'https://gmail.com'
   - infopic:
       title: Infopic Title

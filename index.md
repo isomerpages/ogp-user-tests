@@ -13,15 +13,12 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Isomer v1
+          description: See how we've grown
           url: 'https://google.com'
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Isomer v2
+          description: The latest version
           url: 'https://gmail.com'
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle

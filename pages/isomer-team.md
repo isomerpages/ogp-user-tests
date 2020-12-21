@@ -1,6 +1,6 @@
 ---
 title: Isomer Team
-permalink: /terms-of-use/
+permalink: /isomer-team/
 ---
 
 ### **General Terms and Conditions on the Use of the Isomer Pages Website**

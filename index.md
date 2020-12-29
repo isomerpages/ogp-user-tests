@@ -7,18 +7,18 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Title
-      subtitle: Rapidly launch an informational website for your Government agency
+      title: Isomer
+      subtitle: Rapidly launch an informational website for your government agency.
       background: /images/Hero_1920x720.png
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Isomer v1
-          description: See how we've grown
-          url: 'https://google.com'
-        - title: Isomer v2
-          description: Check out the latest version
-          url: 'https://gmail.com'
+      dropdown:
+        title: Who are you?
+        options:
+          - title: An agency leader
+            url: ''
+          - title: A public officer
+            url: ''
+          - title: A member of the public
+            url: ''
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle

@@ -21,15 +21,13 @@ sections:
             url: ''
   - infopic:
       title: Infopic Title
-      subtitle: Infopic Subtitle
+      subtitle: 'Infopic Subtitle '
       description: Infopic description
       button: Button Text
       alt: Image alt text
       image: /images/Isomer.png
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+  - resources:
+      title: Resources Section Title
+      subtitle: 'Resources Section Subtitle '
+      button: Resources Button Name
 ---
